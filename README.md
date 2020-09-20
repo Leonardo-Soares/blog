@@ -1,2 +1,2 @@
 # Blog
-Construção do meu primeiro blog
+Construção do meu primeiro blog com bootstrap
